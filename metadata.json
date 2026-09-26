@@ -1,0 +1,6 @@
+{
+  "name": "BD TAKA - Mobile Financial & Gaming Portal",
+  "description": "Professional Mobile-Friendly Platform with bKash/Nagad Deposit, Withdrawal, Referral, Interactive Games and Complete Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
